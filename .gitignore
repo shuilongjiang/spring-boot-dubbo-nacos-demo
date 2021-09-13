@@ -1,0 +1,3 @@
+# Project exclude paths
+/shope-service-consumer/target/
+/shope-service-provider/target/
